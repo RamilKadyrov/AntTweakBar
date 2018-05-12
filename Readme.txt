@@ -12,4 +12,4 @@ For installation and documentation please refer to:
 http://anttweakbar.sourceforge.net/doc
 
 --------------------------------
-This is fork of Philippe Decaudin library. I've only added CMakeList.txt for building with CMake. It tested on Windows with Visual Studio 2017. 
+This is fork of Philippe Decaudin library. I've only added CMakeLists.txt for building with CMake. It tested on Windows with Visual Studio 2017. 
